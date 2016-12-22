@@ -1,0 +1,18 @@
+{
+  "name": "express-telolet",
+  "version": "1.0.0",
+  "description": "Telolet telolet telolet",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "telolet",
+    "express",
+    "om-telolet-om"
+  ],
+  "author": "Achmad Mahardi <achmad@mahardi.me>",
+  "license": "MIT"
+}
